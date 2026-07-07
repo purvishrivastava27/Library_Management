@@ -1,0 +1,71 @@
+body {
+
+    font-family: Arial, sans-serif;
+
+    background:#f4f4f4;
+
+}
+
+
+nav {
+
+    background:#222;
+
+    color:white;
+
+    padding:15px;
+
+}
+
+
+nav a {
+
+    color:white;
+
+    margin:10px;
+
+    text-decoration:none;
+
+}
+
+
+.container {
+
+    width:80%;
+
+    margin:auto;
+
+    background:white;
+
+    padding:20px;
+
+}
+
+
+table {
+
+    width:100%;
+
+    border-collapse:collapse;
+
+}
+
+
+td, th {
+
+    padding:10px;
+
+}
+
+
+button {
+
+    background:#007bff;
+
+    color:white;
+
+    padding:8px;
+
+    border:none;
+
+}

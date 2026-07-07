@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+
+<h1>
+Dashboard
+</h1>
+
+
+<h3>
+Total Books: {{ books.count }}
+</h3>
+
+
+<a href="{% url 'book_create' %}">
+Add New Book
+</a>
+
+
+{% endblock %}
